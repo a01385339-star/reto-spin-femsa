@@ -10,6 +10,11 @@
 [![Python](https://img.shields.io/badge/Notebook-Jupyter%20%2F%20Colab-3776AB?style=for-the-badge&logo=python&logoColor=white)](./borrador-2.ipynb)
 [![Dataset](https://img.shields.io/badge/Data-CSV%20Limpio-239120?style=for-the-badge&logo=apachespark&logoColor=white)](./Base_Operaciones_Credito_TEC_Limpia.csv)
 
+## 🎥 Video Demostrativo de la Evidencia
+
+[![Ver Video de la Evidencia](https://img.youtube.com/vi/4YywMwu8Roo/maxresdefault.jpg)](https://youtu.be/4YywMwu8Roo)
+
+> 🔗 **Enlace directo al video:** [https://youtu.be/4YywMwu8Roo](https://youtu.be/4YywMwu8Roo)
 ---
 
 | Campo | Detalle |
